@@ -10,6 +10,7 @@
 - Database: SQL, MongoDB  
 - Tools: Git, GitHub, Docker, Vite  
 
+🌐 Language Lover | 🔥 Lifetime Challenger | 💪 Enduring Swimmer
 
 <!---
 cih-lian-liao/cih-lian-liao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
