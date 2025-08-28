@@ -30,7 +30,7 @@ I love building clean, interactive, and user-friendly applications—bringing to
 
 ### 📈 Current Focus
 
-* 🔨 Building **Sneat**, a Full Stack e-commerce CRM project
+* 🔨 Building **Sneat**, a Full Stack E-Commerce Analytics CRM MERN project
 * 📚 Learning **Redux, React Router, and advanced React patterns**
 * 💡 Preparing for **software engineering internships** (2026 Summer)
 
