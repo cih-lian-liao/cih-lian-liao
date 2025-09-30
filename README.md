@@ -2,18 +2,19 @@
 
 <div align="center">
 
-![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge)
-![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-Fast-646CFF?style=for-the-badge&logo=vite)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git)
-![AI](https://img.shields.io/badge/AI-Powered-orange?style=for-the-badge&logo=openai)
+![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square)
+![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-Programming-orange?style=flat-square&logo=java)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-Fast-646CFF?style=flat-square&logo=vite)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git)
+![AI](https://img.shields.io/badge/AI-Powered-orange?style=flat-square&logo=openai)
 
 **Passionate Frontend Developer | AI Explorer | Multilingual Bridge Builder**
 
