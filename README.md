@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Cih-Lian Liao (Lily)
 
-<div align="center">
 
 ![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square)
 ![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)
@@ -20,9 +19,7 @@
 
 [🌐 **Portfolio**](https://cihlianliao-portfolio.vercel.app) • [💼 **LinkedIn**](https://www.linkedin.com/in/cihlianliao) • [📧 **Email**](mailto:cihlianliao@gmail.com)
 
-</div>
 
----
 
 ## 🌟 About Me
 
@@ -40,7 +37,6 @@ Now I'm channeling that passion into building **inclusive, user-centered web exp
 - 🌍 Using my **multilingual skills** (Chinese, Korean, English) to build global solutions
 - 🎯 **Seeking Summer 2026 Software Engineering Internship**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +46,6 @@ Now I'm channeling that passion into building **inclusive, user-centered web exp
 **AI/ML:** OpenAI GPT, OpenRouter API  
 **Tools:** Git, GitHub, Docker, Vite  
 
----
 
 ## 🚀 Featured Projects
 
@@ -74,7 +69,6 @@ A comprehensive flood risk management platform combining weather data with commu
 
 A data-driven platform that connects adopters with the right pets through intelligent filtering and adoption trend analysis.
 
----
 
 ## 🌍 My Unique Background
 
@@ -84,7 +78,6 @@ A data-driven platform that connects adopters with the right pets through intell
 
 **Cultural Bridge Builder** - Whether it's interpreting for international business meetings or building accessible web interfaces, I'm passionate about removing barriers and creating connections.
 
----
 
 ## 🎯 What I'm Looking For
 
@@ -95,7 +88,6 @@ I'm seeking a **Summer 2026 Software Engineering Internship** where I can:
 - Learn from **experienced mentors**
 - Contribute to **inclusive technology** that serves all users
 
----
 
 ## 💡 Fun Facts
 
@@ -107,7 +99,6 @@ I'm seeking a **Summer 2026 Software Engineering Internship** where I can:
 - 📚 Currently reading about AI ethics and inclusive design
 - 🌱 Always learning - currently exploring advanced React patterns and AI integration
 
----
 
 ## 🤝 Let's Connect!
 
@@ -117,14 +108,11 @@ I'm always excited to meet new people and discuss technology, design, or just sh
 **💼 LinkedIn:** [linkedin.com/in/cihlianliao](https://linkedin.com/in/cihlianliao)  
 **🌐 Portfolio:** [cihlianliao-portfolio.vercel.app](https://cihlianliao-portfolio.vercel.app)  
 
----
 
-<div align="center">
+
 
 **Thanks for stopping by! 👋**
 
 *"The computer was born to solve problems that did not exist before." - Bill Gates*
 
 Made with ❤️ by [Cih-Lian Liao](https://github.com/cih-lian-liao)
-
-</div>
