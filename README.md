@@ -7,7 +7,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-Programming-orange?style=flat-square&logo=java)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css)
